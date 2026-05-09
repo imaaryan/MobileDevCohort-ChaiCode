@@ -3,36 +3,36 @@ import "flowbite";
 import Card from "./components/Card";
 
 const App = () => {
-  const cardData = [
-    {
-      imgLink:
-        "https://images.unsplash.com/photo-1773227881000-07b791984bf1?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Streamlining your design process today. 1",
-      desc: "In today’s fast-paced digital landscape, fostering seamless collaboration among Developers and IT Operations.",
-      cta: "Read More",
-    },
-    {
-      imgLink:
-        "https://images.unsplash.com/photo-1773227881000-07b791984bf1?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Streamlining your design process today. 2",
-      desc: "In today’s fast-paced digital landscape, fostering seamless collaboration among Developers and IT Operations.",
-      cta: "Read More",
-    },
-    {
-      imgLink:
-        "https://images.unsplash.com/photo-1773227881000-07b791984bf1?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Streamlining your design process today. 3",
-      desc: "In today’s fast-paced digital landscape, fostering seamless collaboration among Developers and IT Operations.",
-      cta: "Read More",
-    },
-    {
-      imgLink:
-        "https://images.unsplash.com/photo-1773227881000-07b791984bf1?q=80&w=2664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      title: "Streamlining your design process today. 4",
-      desc: "In today’s fast-paced digital landscape, fostering seamless collaboration among Developers and IT Operations.",
-      cta: "Read More",
-    },
-  ];
+ const cardData = [
+  {
+    imgLink:
+      "https://images.unsplash.com/photo-1497366754035-f200968a6e72?q=80&w=2670&auto=format&fit=crop",
+    title: "How Remote Teams Stay Productive Without Burnout",
+    desc: "Discover practical systems used by modern startups to improve communication, reduce unnecessary meetings, and keep teams focused.",
+    cta: "Read Article",
+  },
+  {
+    imgLink:
+      "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=2670&auto=format&fit=crop",
+    title: "Why Most Startup Websites Fail to Convert",
+    desc: "A breakdown of common UX mistakes that quietly kill conversions, trust, and user retention on modern business websites.",
+    cta: "Explore Insights",
+  },
+  {
+    imgLink:
+      "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?q=80&w=2671&auto=format&fit=crop",
+    title: "Building Better Products Through User Feedback",
+    desc: "Learn how fast-growing companies collect meaningful feedback and turn customer pain points into product improvements.",
+    cta: "Read More",
+  },
+  {
+    imgLink:
+      "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=2670&auto=format&fit=crop",
+    title: "The Future of Design Systems in Modern Teams",
+    desc: "Scalable design systems help teams ship faster, maintain consistency, and reduce development overhead across products.",
+    cta: "View Details",
+  },
+];
 
   return (
     <>
