@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/imaaryan/MobileDevCohort-ChaiCode/refs/heads/main/React-Native-INIT/my-app/assets/Screenshot.png)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
